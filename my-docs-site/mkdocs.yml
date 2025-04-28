@@ -1,0 +1,33 @@
+site_name: 3D Printing for Children's Hospitals
+nav:
+  - Home: index.md
+  - Printers:
+      - Recommended Printers: recommendedPrinters.md
+      - Choosing a Printer: choosingAPrinter.md
+      - A Note on Prices: aNoteOnPrices.md
+  - Tools and Supples:
+      - Computer: computer.md
+      - Tools and Maintenance: tools.md
+      - Materials and Storage: materials.md
+  - Use Cases: 
+      - Play: playUseCase.md
+      - Medical: medicalUseCase.md
+      - Recycling: recyclingUseCase.md
+      - Labeling: labelingUseCase.md
+  - 3D Models: 
+      - Reputable Model Websites: reputable.md
+      - Create Your Own Models: create.md
+      - Recommended Models: recommendedModels.md
+
+  - Future Growth: futureGrowth.md
+theme:
+  name: material
+  features:
+ 
+
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
