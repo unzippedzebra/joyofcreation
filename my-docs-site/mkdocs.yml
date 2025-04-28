@@ -1,14 +1,17 @@
 site_name: 3D Printing for Children's Hospitals
+site_url: https://github.com/unzippedzebra/joyofcreation
+
 nav:
   - Home: index.md
   - Printers:
       - Recommended Printers: recommendedPrinters.md
       - Choosing a Printer: choosingAPrinter.md
       - A Note on Prices: aNoteOnPrices.md
-  - Tools and Supples:
+  - Tools and Supplies:
       - Computer: computer.md
       - Tools and Maintenance: tools.md
       - Materials and Storage: materials.md
+      - Filament: filament.md
   - Use Cases: 
       - Play: playUseCase.md
       - Medical: medicalUseCase.md
@@ -25,9 +28,9 @@ theme:
   features:
  
 
-
-
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html

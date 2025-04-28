@@ -7,6 +7,14 @@
 - **Microfiber Cloths or Lint-Free Wipes**  
   Used with IPA to wipe down the build surface without leaving fibers behind.
 
+- **Mild Dish Soap and Warm Water**  
+  Occasionally, a deeper cleaning of the build surface is needed — especially if print adhesion starts getting worse over time despite regular IPA cleaning.  
+  Gently wash the plate with warm water and a few drops of mild, unscented dish soap (avoid soaps with moisturizers or fragrances).  
+  Rinse thoroughly and dry with a lint-free cloth before use.
+
+??? note 
+    Well-known brands like "Dawn" are often mentioned in the U.S., but any basic dish soap without added moisturizers will work just as well.
+
 - **Filament Dryer**  
   Essential for maintaining filament quality, especially for moisture-sensitive materials like PETG, TPU, and Nylon.
 

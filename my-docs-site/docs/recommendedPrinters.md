@@ -100,3 +100,20 @@ There are other reputable brands worth mentioning, especially for users who are 
 > If you prefer a "set it and forget it" experience, Prusa and Bambu remain better primary choices.  
 
 > If you're excited by tinkering, modding, and tuning, Sovol, Anycubic, or Creality might be good budget alternatives.
+
+## The Shortlist
+
+Prusa
+
+Prusa Mini
+
+Prusa MK4 
+
+
+Bambu Lab 
+
+A1 Mini
+
+A1 
+
+
